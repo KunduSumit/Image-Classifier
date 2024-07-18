@@ -1,4 +1,4 @@
-# license_plate_detection
+# License Plate Detection
 
 Developed a model to accurately extract license plate information from images or video streams under various environmental conditions and angles.
 - Utilized YOLO (You Only Look Once) for object detection, to locate license plates in images and video streams.
